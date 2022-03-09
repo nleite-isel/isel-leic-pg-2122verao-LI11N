@@ -1,0 +1,9 @@
+Linux:
+
+
+% Add Kotlin compiler temporarily to path 
+export PATH="$HOME/Kotlin/kotlinc/bin:$PATH"
+
+
+% Add permanently
+https://stackoverflow.com/questions/14637979/how-to-permanently-set-path-on-linux-unix
